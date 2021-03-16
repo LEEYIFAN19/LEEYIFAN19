@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @LEEYIFAN19
+- 👋 Hi, I’m LEE YI FAN 
 - 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 LEEYIFAN19/LEEYIFAN19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
